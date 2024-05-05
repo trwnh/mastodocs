@@ -1,11 +1,8 @@
----
-title: Scaling up your server
-descriptions: Optimizations that can be done to serve more users.
-menu:
-  docs:
-    weight: 100
-    parent: admin
----
++++
+title = "Scaling up your server"
+summary = "Optimizations that can be done to serve more users."
+weight = 100
++++
 
 ## Managing concurrency {#concurrency}
 

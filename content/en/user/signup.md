@@ -1,11 +1,8 @@
----
-title: Signing up for an account
-description: Find your perfect community.
-menu:
-  docs:
-    weight: 10
-    parent: user
----
++++
+title = "Signing up for an account"
+summary = "Find your perfect community."
+weight = 10
++++
 
 ## Choosing a website {#picker}
 

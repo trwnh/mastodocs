@@ -1,11 +1,8 @@
----
-title: Using the admin CLI
-description: tootctl commands that can be run from the CLI.
-menu:
-  docs:
-    weight: 60
-    parent: admin
----
++++
+title = "Using the admin CLI"
+summary = "tootctl commands that can be run from the CLI."
+weight = 60
++++
 
 The command-line interface of Mastodon is an executable file called `tootctl` residing in the `bin` directory within the Mastodon root directory. You must specify which environment you intend to use whenever you execute it by specifying the `RAILS_ENV` environment variable. Unless you are a developer working on a local machine, you need to use `RAILS_ENV=production`. If you are sure that you will never need another environment (for development, testing, or staging), you can add it to your `.bashrc` file for convenience, e.g.:
 

@@ -1,11 +1,7 @@
----
-title: Onion services
-description: Serving Mastodon through Tor onion services.
-menu:
-  docs:
-    weight: 20
-    parent: admin-optional
----
++++
+title = "Onion routing"
+summary = "Serving Mastodon through Tor onion services."
++++
 
 Mastodon can be served through Tor as an onion service. This will give you a `*.onion` address that can only be used while connected to the Tor network.
 

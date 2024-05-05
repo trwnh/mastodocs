@@ -1,10 +1,8 @@
----
-title: Upgrading to a new release
-menu:
-  docs:
-    weight: 70
-    parent: admin
----
++++
+title = "Upgrading to a new release"
+summary = "Instructions on moving to a newer version of Mastodon"
+weight = 70
++++
 
 {{< hint style="info" >}}
 When a new version of Mastodon comes out, it appears on the [GitHub releases page](https://github.com/mastodon/mastodon/releases). Please mind that running unreleased code from the `main` branch, while possible, is not recommended.

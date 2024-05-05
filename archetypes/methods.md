@@ -1,14 +1,11 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-description: 
-menu:
-  docs:
-    parent: methods
++++
+title = "{{ replace .Name "-" " " | title }}"
+summary = ""
 aliases: [
   "/api/methods/SOMETHING",
   "/api/methods/something",
 ]
----
++++
 
 ## What the method does {#anchor}
 

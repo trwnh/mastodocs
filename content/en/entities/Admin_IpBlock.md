@@ -1,10 +1,7 @@
----
-title: Admin::IpBlock
-description: Represents an IP address range that cannot be used to sign up.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::IpBlock"
+summary = "Represents an IP address range that cannot be used to sign up."
+aliases = [
   "/entities/admin-ipblock",
   "/entities/Admin-IpBlock",
   "/entities/admin_ipblock",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_ipblock",
   "/api/entities/Admin_IpBlock",
 ]
----
++++
 
 ## Example
 

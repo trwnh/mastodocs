@@ -1,10 +1,7 @@
----
-title: Account
-description: Represents a user of Mastodon and their associated profile.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Account"
+summary = "Represents a user of Mastodon and their associated profile."
+aliases = [
   "/entities/source/",
   "/entities/Source/",
   "/entities/field/",
@@ -26,7 +23,7 @@ aliases: [
   "/api/entities/mutedaccount",
   "/api/entities/MutedAccount",
 ]
----
++++
 
 ## Example
 

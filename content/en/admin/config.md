@@ -1,11 +1,8 @@
----
-title: Configuring your environment
-description: Setting environment variables for your Mastodon installation.
-menu:
-  docs:
-    weight: 30
-    parent: admin
----
++++
+title = "Configuring your environment"
+summary = "Setting environment variables for your Mastodon installation."
+weight = 30
++++
 
 Mastodon uses environment variables as its configuration.
 

@@ -1,10 +1,7 @@
----
-title: Admin::Report
-description: Admin-level information about a filed report.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::Report"
+summary = "Admin-level information about a filed report."
+aliases = [
   "/entities/admin-report",
   "/entities/Admin-Report",
   "/entities/admin_report",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_report",
   "/api/entities/Admin_Report",
 ]
----
++++
 
 ## Example
 

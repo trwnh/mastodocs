@@ -1,11 +1,8 @@
----
-title: Obtaining client app access
-description: Getting accustomed to the basics of authentication and authorization.
-menu:
-  docs:
-    weight: 30
-    parent: client
----
++++
+title = "Obtaining client app access"
+summary = "Getting accustomed to the basics of authentication and authorization."
+weight = 30
++++
 
 ## Authentication and authorization {#auth}
 

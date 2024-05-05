@@ -1,10 +1,9 @@
----
-title: What is Mastodon?
-description: Welcome to the Mastodon documentation!
-menu:
-  docs:
-    weight: -99
----
++++
+title = "What is Mastodon?"
+summary = "Welcome to the Mastodon documentation!"
+[cascade]
+type = "docs"
++++
 
 ## What is a microblog? {#microblogging}
 

@@ -1,11 +1,8 @@
----
-title: Routes
-description: How HTTP methods map to controllers and actions.
-menu:
-  docs:
-    weight: 40
-    parent: dev
----
++++
+title = "Routes"
+summary = "How HTTP methods map to controllers and actions."
+weight = 40
++++
 
 {{< caption-link url="https://github.com/mastodon/mastodon/blob/main/config/routes.rb" caption="config/routes.rb" >}}
 

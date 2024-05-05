@@ -1,11 +1,8 @@
----
-title: Migrating to a new machine
-description: Copying your Mastodon installation to a new server without losing anything.
-menu:
-  docs:
-    weight: 90
-    parent: admin
----
++++
+title = "Migrating to a new machine"
+summary = "Copying your Mastodon installation to a new server without losing anything."
+weight = 90
++++
 
 Sometimes, for various reasons, you may want to migrate your Mastodon instance from one server to another. Fortunately, this is not too difficult of a process, although it may result in some downtime.
 

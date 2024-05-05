@@ -1,13 +1,11 @@
----
-title: Configuring full-text search
-description: Setting up Elasticsearch to search for statuses (authored, favourited, or mentioned), public indexable status, and accounts
-aliases:
-- /admin/optional/elasticsearch
-menu:
-  docs:
-    weight: 40
-    parent: admin
----
++++
+title = "Configuring full-text search"
+summary = "Setting up Elasticsearch to search for statuses (authored, favourited, or mentioned), public indexable status, and accounts"
+weight = 40
+aliases = [
+  "/admin/optional/elasticsearch"
+]
++++
 
 Mastodon supports full-text search when Elasticsearch is available. It is strongly recommended to configure this feature.
 

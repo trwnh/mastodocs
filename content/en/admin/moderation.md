@@ -1,11 +1,8 @@
----
-title: Moderation actions
-description: Actions that can be taken against unwanted users or domains.
-menu:
-  docs:
-    weight: 110
-    parent: admin
----
++++
+title = "Moderation actions"
+summary = "Actions that can be taken against unwanted users or domains."
+weight = 110
++++
 
 ## Moderating individual users {#individual-moderation}
 

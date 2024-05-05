@@ -1,10 +1,7 @@
----
-title: Admin::Cohort
-description: Represents a retention metric.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::Cohort"
+summary = "Represents a retention metric."
+aliases = [
   "/entities/admin-cohort",
   "/entities/Admin-Cohort",
   "/entities/admin_cohort",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_cohort",
   "/api/entities/Admin_Cohort",
 ]
----
++++
 
 ## Example
 

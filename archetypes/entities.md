@@ -1,14 +1,11 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-description: 
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "{{ replace .Name "-" " " | title }}"
+summary = ""
+aliases = [
   "/api/entities/SOMETHING",
   "/api/entities/something",
 ]
----
++++
 
 ## Example
 

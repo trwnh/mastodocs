@@ -1,10 +1,8 @@
----
-title: Preparing your machine
-menu:
-  docs:
-    weight: 10
-    parent: admin
----
++++
+title = "Preparing your machine"
+summary = "What you need to do before installation"
+weight = 10
++++
 
 If you are setting up a fresh machine, it is recommended that you secure it first. Assuming that you are running **Ubuntu 20.04**:
 

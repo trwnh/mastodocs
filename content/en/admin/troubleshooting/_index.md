@@ -1,11 +1,8 @@
----
-title: Troubleshooting errors
-menu:
-  docs:
-    weight: 120
-    parent: admin
-    identifier: admin-troubleshooting
----
++++
+title = "Troubleshooting errors"
+summary = "Some common things that go wrong"
+weight = 120
++++
 
 ## **I see an error page that says something went wrong. How do I find out what’s wrong?**
 

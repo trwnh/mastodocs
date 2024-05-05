@@ -1,11 +1,7 @@
----
-title: Database index corruption
-description: How to recover from database index corruption.
-menu:
-  docs:
-    weight: 10
-    parent: admin-troubleshooting
----
++++
+title = "Database index corruption"
+summary = "How to recover from database index corruption."
++++
 
 A somewhat common configuration issue can lead to index corruption throughout the database. This page attempts to explain why this may occur and how to fix it.
 

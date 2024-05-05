@@ -1,10 +1,7 @@
----
-title: Admin::Measure
-description: Represents quantitative data about the server.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::Measure"
+summary = "Represents quantitative data about the server."
+aliases = [
   "/entities/admin-measure",
   "/entities/Admin-Measure",
   "/entities/admin_measure",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_measure",
   "/api/entities/Admin_Measure",
 ]
----
++++
 
 ## Attributes
 

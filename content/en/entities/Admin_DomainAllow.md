@@ -1,10 +1,7 @@
----
-title: Admin::DomainAllow
-description: Represents a domain allowed to federate.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::DomainAllow"
+description = "Represents a domain allowed to federate."
+aliases = [
   "/entities/admin-domainallow",
   "/entities/Admin-DomainAllow",
   "/entities/admin_domainallow",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_domainallow",
   "/api/entities/Admin_DomainAllow",
 ]
----
++++
 
 ## Example
 

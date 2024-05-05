@@ -1,10 +1,7 @@
----
-title: Admin::Account
-description: Admin-level information about a given account.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::Account"
+summary = "Admin-level information about a given account."
+aliases = [
   "/entities/admin-account",
   "/entities/Admin-Account",
   "/entities/admin_account",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_account",
   "/api/entities/Admin_Account",
 ]
----
++++
 
 ## Example
 

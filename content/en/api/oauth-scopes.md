@@ -1,11 +1,8 @@
----
-title: OAuth Scopes
-description: Defining what you have permission to do with the API
-menu:
-  docs:
-    weight: 20
-    parent: api
----
++++
+title = "OAuth Scopes"
+summary = "Defining what you have permission to do with the API"
+weight = 20
++++
 
 ## OAuth Scopes
 

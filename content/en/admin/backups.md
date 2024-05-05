@@ -1,11 +1,8 @@
----
-title: Backing up your server
-description: Setting up regular backups (optional, but not really)
-menu:
-  docs:
-    weight: 80
-    parent: admin
----
++++
+title = "Backing up your server"
+summary = "Setting up regular backups (optional, but not really)"
+weight = 80
++++
 
 For any real-world use, you should make sure to regularly backup your Mastodon server.
 

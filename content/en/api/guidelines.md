@@ -1,11 +1,8 @@
----
-title: Guidelines and best practices
-description: Things to keep in mind when implementing a Mastodon app.
-menu:
-  docs:
-    weight: 10
-    parent: api
----
++++
+title = "Guidelines and best practices"
+summary = "Things to keep in mind when implementing a Mastodon app."
+weight = 10
++++
 
 ## Login {#login}
 

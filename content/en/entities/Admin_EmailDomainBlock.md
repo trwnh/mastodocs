@@ -1,10 +1,7 @@
----
-title: Admin::EmailDomainBlock
-description: Represents an email domain that cannot be used to sign up.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::EmailDomainBlock"
+summary = "Represents an email domain that cannot be used to sign up."
+aliases = [
   "/entities/admin-emaildomainblock",
   "/entities/Admin-EmailDomainBlock",
   "/entities/admin_emaildomainblock",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_emaildomainblock",
   "/api/entities/Admin_EmailDomainBlock",
 ]
----
++++
 
 ## Example
 

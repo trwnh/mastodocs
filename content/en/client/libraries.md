@@ -1,11 +1,8 @@
----
-title: Libraries and implementations
-description: Code, libraries and SDKs for the Mastodon API in a range of programming languages.
-menu:
-  docs:
-    weight: 60
-    parent: client
----
++++
+title = "Libraries and implementations"
+summary = "Code, libraries and SDKs for the Mastodon API in a range of programming languages."
+weight = 60
++++
 
 Thank you to our awesome developer community, for supporting the project with a wide range of implementations of the API. If you have built a library or SDK for the Mastodon API, [let us know](https://github.com/mastodon/mastodon/discussions) about it, and it may be included below in a future update.
 

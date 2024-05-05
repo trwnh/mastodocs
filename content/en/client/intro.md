@@ -1,11 +1,8 @@
----
-title: Getting started with the API
-description: 'A primer on REST APIs, HTTP requests and responses, and parameters.'
-menu:
-  docs:
-    weight: 10
-    parent: client
----
++++
+title = "Getting started with the API"
+summary = "A primer on REST APIs, HTTP requests and responses, and parameters."
+weight = 10
++++
 
 ## An introduction to REST {#rest}
 

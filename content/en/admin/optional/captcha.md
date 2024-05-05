@@ -1,11 +1,7 @@
----
-title: Captcha
-description: Mitigating automated signup bots
-menu:
-  docs:
-    weight: 30
-    parent: admin-optional
----
++++
+title = "Captcha"
+summary = "Mitigating automated signup bots"
++++
 
 As of Mastodon 4.2, using CAPTCHA technology is supported to help mitigate against bots signing up for new accounts.
 With CAPTCHA enabled, new registrations will be required to complete a challenge response as part of the e-mail verification process.

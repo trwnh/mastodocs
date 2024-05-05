@@ -1,11 +1,8 @@
----
-title: Logging in with an account
-description: How to obtain authorization from a user and perform actions on their behalf.
-menu:
-  docs:
-    weight: 40
-    parent: client
----
++++
+title = "Logging in with an account"
+summary = "How to obtain authorization from a user and perform actions on their behalf."
+weight = 40
++++
 
 ## Scopes explained {#scopes}
 

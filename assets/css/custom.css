@@ -1,0 +1,33 @@
+:root {
+	--primary-hue: 240deg;
+	--primary-saturation: 90%;
+}
+
+.dark {
+	--primary-hue: 240deg;
+	--primary-saturation: 40%;
+}
+
+body {
+	--tw-bg-opacity: 0.2;
+	background-color: rgb(133 138 250 / var(--tw-bg-opacity));
+}
+
+body:is(html[class~="dark"] *) {
+	--tw-bg-opacity: 0.2;
+	background-color: rgb(23 6 59 / var(--tw-bg-opacity));
+	color: rgb(243 244 246 / var(--tw-text-opacity));
+}
+
+.nav-container nav a:first-child img {
+	margin-top: 8px;
+}
+
+.nav-container nav a:first-child img::after {
+	content: "documentation";
+}
+
+.sidebar-container div:last-child {
+	box-shadow: none;
+	background: none;
+}

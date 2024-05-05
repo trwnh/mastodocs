@@ -1,11 +1,7 @@
----
-title: Object storage
-description: Serving user-uploaded files in Mastodon using external object storage
-menu:
-  docs:
-    weight: 15
-    parent: admin-optional
----
++++
+title = "Object storage"
+summary = "Serving user-uploaded files in Mastodon using external object storage"
++++
 
 User-uploaded files can be stored on the main server's file system, or using an external object storage server, which can be required for scaling.
 

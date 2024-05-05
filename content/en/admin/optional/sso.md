@@ -1,10 +1,7 @@
----
-title: Single Sign On
-menu:
-  docs:
-    weight: 40
-    parent: admin-optional
----
++++
+title = "Single Sign On (SSO)"
+summary = "Log into Mastodon with an externally-managed credentials"
++++
 
 {{< hint style="danger" >}}
 This page is under construction.

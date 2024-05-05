@@ -1,11 +1,8 @@
----
-title: Technical overview
-description: A description of Mastodon's architecture.
-menu:
-  docs:
-    weight: 10
-    parent: dev
----
++++
+title = "Technical overview"
+summary = "A description of Mastodon's architecture."
+weight = 10
++++
 
 Mastodon is a Ruby on Rails application with a React.js front-end.  It follows standard practices of those frameworks, so if you are already familiar with Rails or React.js, you will not find any surprises here.
 

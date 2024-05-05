@@ -1,11 +1,8 @@
----
-title: Setting up your new instance
-description: Things to do after installing Mastodon
-menu:
-  docs:
-    weight: 50
-    parent: admin
----
++++
+title = "Setting up your new instance"
+summary = "Things to do after installing Mastodon"
+weight = 50
++++
 
 ## Creating an admin account {#admin}
 

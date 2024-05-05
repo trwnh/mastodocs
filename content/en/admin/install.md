@@ -1,11 +1,8 @@
----
-title: Installing from source
-description: Instructional guide on creating your own Mastodon-powered website.
-menu:
-  docs:
-    weight: 20
-    parent: admin
----
++++
+title = "Installing from source"
+summary = "Instructional guide on creating your own Mastodon-powered website."
+weight = 20
++++
 
 ## Pre-requisites {#pre-requisites}
 

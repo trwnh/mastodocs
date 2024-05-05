@@ -1,11 +1,8 @@
----
-title: Bug bounties and responsible disclosure
-description: What to do if you found a serious bug
-menu:
-  docs:
-    weight: 9999
-    parent: dev
----
++++
+title = "Bug bounties and responsible disclosure"
+summary = "What to do if you found a serious bug"
+weight = 9999
++++
 
 If you believe you've identified a security vulnerability in Mastodon (a bug that allows something to happen that shouldn't be possible), you should send the report to **security@joinmastodon.org**. We will gladly reward such reports in proportion to the severity of the issue through our OpenCollective fund.
 

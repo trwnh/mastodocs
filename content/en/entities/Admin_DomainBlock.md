@@ -1,10 +1,7 @@
----
-title: Admin::DomainBlock
-description: Represents a domain limited from federating.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::DomainBlock"
+summary = "Represents a domain limited from federating."
+aliases = [
   "/entities/admin-domainblock",
   "/entities/Admin-DomainBlock",
   "/entities/admin_domainblock",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_domainblock",
   "/api/entities/Admin_DomainBlock",
 ]
----
++++
 
 ## Example
 

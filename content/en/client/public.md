@@ -1,11 +1,8 @@
----
-title: Playing with public data
-description: Familiarizing yourself with endpoints and entities.
-menu:
-  docs:
-    weight: 20
-    parent: client
----
++++
+title = "Playing with public data"
+summary = "Familiarizing yourself with endpoints and entities."
+weight = 20
++++
 
 Now that you know how to construct HTTP requests using cURL or your favorite programming language's HTTP utility or library, it is time to learn about endpoints and responses.
 

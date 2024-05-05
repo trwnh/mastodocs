@@ -1,11 +1,8 @@
----
-title: Rate limits
-description: Defining how often you can call the REST API
-menu:
-  docs:
-    weight: 30
-    parent: api
----
++++
+title = "Rate limits"
+summary = "Defining how often you can call the REST API"
+weight = 30
++++
 
 ## Headers
 

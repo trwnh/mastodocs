@@ -1,10 +1,7 @@
----
-title: Admin::CanonicalEmailBlock
-description: Represents a canonical email block (hashed).
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::CanonicalEmailBlock"
+summary = "Represents a canonical email block (hashed)."
+aliases = [
   "/entities/admin-canonicalemailblock",
   "/entities/Admin-CanonicalEmailBlock",
   "/entities/admin_canonicalemailblock",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_canonicalemailblock",
   "/api/entities/Admin_CanonicalEmailBlock",
 ]
----
++++
 
 ## Example
 

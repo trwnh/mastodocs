@@ -1,11 +1,8 @@
----
-title: Setting up a dev environment
-description: Instructions on how to start developing for Mastodon.
-menu:
-  docs:
-    weight: 20
-    parent: dev
----
++++
+title = "Setting up a dev environment"
+summary = "Get Mastodon up and running on your local machine so you can start hacking"
+weight = 20
++++
 
 ## Quick start with Vagrant {#vagrant}
 

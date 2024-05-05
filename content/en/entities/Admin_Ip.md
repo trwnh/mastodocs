@@ -1,10 +1,7 @@
----
-title: Admin::Ip
-description: Represents an IP address associated with a user.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::Ip"
+summary = "Represents an IP address associated with a user."
+aliases = [
   "/entities/admin-ip",
   "/entities/Admin-Ip",
   "/entities/admin_ip",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_ip",
   "/api/entities/Admin_Ip",
 ]
----
++++
 
 ## Example
 

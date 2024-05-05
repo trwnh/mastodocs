@@ -1,12 +1,9 @@
----
-title: Roles
-description: Management of roles from the admin dashboard.
-menu:
-  docs:
-    parent: admin
----
++++
+title = "Roles"
+summary = "Management of roles from the admin dashboard."
+weight = 0
++++
 
-# Roles {#roles}
 When the database is seeded, roles are derived from the values present in [`~/config/roles.yml`](https://github.com/mastodon/mastodon/blob/main/config/roles.yml).
 
 {{< page-ref page="entities/Role" >}}

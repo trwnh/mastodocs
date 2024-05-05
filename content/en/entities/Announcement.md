@@ -1,16 +1,13 @@
----
-title: Announcement
-description: Represents an announcement set by an administrator.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Announcement"
+summary = "Represents an announcement set by an administrator."
+aliases = [
 	"/entities/announcement",
 	"/entities/Announcement",
   "/api/entities/announcement",
 	"/api/entities/Announcement",
 ]
----
++++
 
 ## Example
 ```json

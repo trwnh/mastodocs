@@ -1,10 +1,7 @@
----
-title: Admin::Dimension
-description: Represents qualitative data about the server.
-menu:
-  docs:
-    parent: entities
-aliases: [
++++
+title = "Admin::Dimension"
+summary = "Represents qualitative data about the server"
+aliases = [
   "/entities/admin-dimension",
   "/entities/Admin-Dimension",
   "/entities/admin_dimension",
@@ -14,7 +11,7 @@ aliases: [
   "/api/entities/admin_dimension",
   "/api/entities/Admin_Dimension",
 ]
----
++++
 
 ## Attributes
 
